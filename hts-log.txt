@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 13 Dec 2021 23:13:10 at https://boss-bull-club.vercel.app/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://boss-bull-club.vercel.app/ -O1 "C:\Users\kikou\Desktop\nft mint solana\rabiti" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:13:19	Warning: 	Warning: store application/octet-stream without scan: C:/Users/kikou/Desktop/nft mint solana/rabiti/boss-bull-club.vercel.app/assets/SeoulNamsan-CEB.ttf.svg
+23:13:19	Error: 	"Not Found" (404) at link https://boss-bull-club.vercel.app/abs.twimg.com/responsive-web/client-web-legacy/polyfills.3f6f7645.js (from https://boss-bull-club.vercel.app/BossBullsClub.html)
+23:13:19	Error: 	"Not Found" (404) at link https://boss-bull-club.vercel.app/abs.twimg.com/responsive-web/client-web-legacy/vendors_main.45d1eee5.js (from https://boss-bull-club.vercel.app/BossBullsClub.html)
+23:13:19	Error: 	"Not Found" (404) at link https://boss-bull-club.vercel.app/abs.twimg.com/responsive-web/client-web-legacy/i18n/en.b9ae1165.js (from https://boss-bull-club.vercel.app/BossBullsClub.html)
+23:13:19	Error: 	"Not Found" (404) at link https://boss-bull-club.vercel.app/abs.twimg.com/responsive-web/client-web-legacy/main.eb426635.js (from https://boss-bull-club.vercel.app/BossBullsClub.html)
+23:13:19	Error: 	"Not Found" (404) at link https://boss-bull-club.vercel.app/abs.twimg.com/responsive-web/client-web-legacy/icon-ios.b1fc7275.png (from https://boss-bull-club.vercel.app/BossBullsClub.html)
+23:13:19	Error: 	"Not Found" (404) at link https://boss-bull-club.vercel.app/abs.twimg.com/errors/logo46x38.png (from https://boss-bull-club.vercel.app/BossBullsClub.html)
+23:13:19	Error: 	"Not Found" (404) at link https://boss-bull-club.vercel.app/cdn.discordapp.com/splashes/905298246941950072/23be5e55e516f0223cb2e4ba186160b15168.jpg?size=512 (from https://boss-bull-club.vercel.app/invite/zQQhHjj7Ng.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 seconds : 36 links scanned, 28 files written (901389 bytes overall) [458223 bytes received at 50913 bytes/sec], 660714 bytes transferred using HTTP compression in 14 files, ratio 25%, 18.0 requests per connection
+(7 errors, 1 warnings, 0 messages)
